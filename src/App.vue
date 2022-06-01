@@ -27,13 +27,4 @@ export default {
 a {
   text-decoration: none;
 }
-#home,
-#basico,
-#javascript,
-#sql {
-  max-width: 1000px;
-  margin: auto;
-  color: #777;
-  min-height: 200px;
-}
 </style>

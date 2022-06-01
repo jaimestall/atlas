@@ -1,10 +1,8 @@
 <template>
   <div class="footer-bg">
     <div id="footer">
-      <a href="https://github.com/jaimestall/atlas" target="_blank"
-        >GitHub |
-      </a>
-      <a href="https://www.linkedin.com/in/jaimestall/" target="_blank"
+      <a href="https://github.com/jaimestall/atlas" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/jaimestall" target="_blank"
         >LinkedIn</a
       >
     </div>
@@ -37,10 +35,10 @@ export default {
   background-color: #777;
 }
 #footer {
-  max-width: 1000px;
+  max-width: 1080px;
   margin: auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 10px;
 }
@@ -51,5 +49,9 @@ export default {
   padding: 10px;
   border-radius: 5px;
   color: white;
+}
+#footer a:hover {
+  color: #666;
+  transition: 0.25s;
 }
 </style>

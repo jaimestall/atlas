@@ -7,8 +7,8 @@ export default {};
 </script>
 
 <style>
-#basico{
-  max-width: 1000px;
+#basico {
+  max-width: 1080px;
   margin: auto;
   color: #777;
   min-height: 200px;
