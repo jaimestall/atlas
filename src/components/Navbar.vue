@@ -1,7 +1,7 @@
 <template>
   <div class="nav-bar-bg">
     <div id="nav-bar">
-      <div class="logo"><a href="/">Atlas</a></div>
+      <div class="logo"><a href="/">Projeto Atlas</a></div>
       <div class="menu">
         <router-link to="/">Home</router-link>
         <router-link to="/Basico">Básico</router-link>
@@ -23,25 +23,23 @@
   background-color: #777;
 }
 #nav-bar {
-  max-width: 1080px;
+  max-width: 1100px;
   margin: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding: 15px 0;
 }
 .menu-mobile {
   display: none;
 }
 .logo {
-  padding: 10px;
-  margin: 5px;
+  margin: 0 10px;
 }
 .logo a {
   font-weight: bold;
   font-size: 2.25em;
   color: white;
-  padding: 5px 10px;
 }
 .logo a:hover {
   color: #666;

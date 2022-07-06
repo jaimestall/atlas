@@ -28,7 +28,7 @@ export default {
 
 <style>
 #home {
-  max-width: 1080px;
+  max-width: 1100px;
   margin: auto;
 }
 .titulo-corpo {
@@ -37,7 +37,7 @@ export default {
   font-size: 2em;
   line-height: 1;
   text-align: center;
-  max-width: 1080px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 20px 0;
 }

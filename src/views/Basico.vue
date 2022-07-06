@@ -1,5 +1,8 @@
 <template>
-  <div id="basico">Esta é a Basico</div>
+  <div id="basico">
+    <h2 class="titulo-corpo">Comandos Básicos</h2>
+    <div class="display-cards"></div>
+  </div>
 </template>
 
 <script>
@@ -8,9 +11,11 @@ export default {};
 
 <style>
 #basico {
-  max-width: 1080px;
+  max-width: 1100px;
   margin: auto;
-  color: #777;
-  min-height: 200px;
+}
+.display-cards {
+  display: flex;
+  flex-wrap: wrap;
 }
 </style>
