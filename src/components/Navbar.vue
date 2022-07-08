@@ -7,12 +7,14 @@
         <router-link to="/Basico">Básico</router-link>
         <router-link to="/Javascript">Javascript</router-link>
         <router-link to="/SQL">SQL</router-link>
+        <router-link to="/Deutsch">Deutsch</router-link>
       </div>
       <div class="menu-mobile">
         <router-link to="/">Home</router-link>
         <router-link to="/Basico">Básico</router-link>
         <router-link to="/Javascript">Javascript</router-link>
         <router-link to="/SQL">SQL</router-link>
+        <router-link to="/Deutsch">Deutsch</router-link>
       </div>
     </div>
   </div>

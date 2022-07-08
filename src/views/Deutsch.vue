@@ -1,5 +1,8 @@
 <template>
-  <div id="javascript">Esta é a aba de Javascript</div>
+  <div id="deutsch">
+    <h2 class="titulo-corpo">Artigos Nominativos</h2>
+    <h2 class="titulo-corpo">Artigos Acusativos</h2>
+  </div>
 </template>
 
 <script>
@@ -7,7 +10,7 @@ export default {};
 </script>
 
 <style>
-#javascript {
+#deutsch {
   max-width: 1100px;
   margin: auto;
   color: #777;

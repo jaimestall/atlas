@@ -1,5 +1,5 @@
 <template>
-  <div id="sql">Esta é a SQL</div>
+  <div id="sql">Esta é a aba de SQL</div>
 </template>
 
 <script>
