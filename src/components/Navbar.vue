@@ -1,28 +1,28 @@
 <template>
-  <div class="nav-bar-bg">
-    <div id="nav-bar">
-      <div class="logo"><a href="/">Projeto Atlas</a></div>
-      <div class="menu">
-        <router-link to="/">Home</router-link>
-        <router-link to="/Basico">Básico</router-link>
-        <router-link to="/Javascript">Javascript</router-link>
-        <router-link to="/SQL">SQL</router-link>
-        <router-link to="/Deutsch">Deutsch</router-link>
-      </div>
-      <div class="menu-mobile">
-        <router-link to="/">Home</router-link>
-        <router-link to="/Basico">Básico</router-link>
-        <router-link to="/Javascript">Javascript</router-link>
-        <router-link to="/SQL">SQL</router-link>
-        <router-link to="/Deutsch">Deutsch</router-link>
+    <div class="nav-bar-bg">
+      <div id="nav-bar">
+        <div class="logo"><a href="/">Der Atlas</a></div>
+        <div class="menu">
+          <router-link to="/">Home</router-link>
+          <router-link to="/Basico">Básico</router-link>
+          <router-link to="/Javascript">Javascript</router-link>
+          <router-link to="/SQL">SQL</router-link>
+          <router-link to="/Deutsch">Deutsch</router-link>
+        </div>
+        <div class="menu-mobile">
+          <router-link to="/">Home</router-link>
+          <router-link to="/Basico">Básico</router-link>
+          <router-link to="/Javascript">Javascript</router-link>
+          <router-link to="/SQL">SQL</router-link>
+          <router-link to="/Deutsch">Deutsch</router-link>
+        </div>
       </div>
     </div>
-  </div>
 </template>
 
 <style>
 .nav-bar-bg {
-  background-color: #777;
+  background-color: #777;  
 }
 #nav-bar {
   max-width: 1100px;

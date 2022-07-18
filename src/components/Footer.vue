@@ -2,9 +2,7 @@
   <div class="footer-bg">
     <div id="footer">
       <a href="https://github.com/jaimestall/atlas" target="_blank">GitHub</a>
-      <a href="https://www.linkedin.com/in/jaimestall" target="_blank"
-        >LinkedIn</a
-      >
+      <a href="https://www.linkedin.com/in/jaimestall" target="_blank">LinkedIn</a>
     </div>
   </div>
 </template>

@@ -2,7 +2,7 @@
   <div id="home">
     <h2 class="titulo-corpo">O que é um atlas</h2>
     <div class="cards-box">
-      <div class="corpo-item">
+      <div class="card">
         <h2>Dicionário</h2>
         <p>substantivo masculino de duas sílabas</p>
         <p>
